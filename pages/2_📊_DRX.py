@@ -30,6 +30,15 @@ with tab1:
              'Importante notar que por terem ultimates muito fortes eles tentam usar em rounds seguidos, '
              'com o intuito de criar uma bola de neve independente da economia adversária,'
              ' esse fator vem das ults do Breach e Fade, que são as principais ferramentar para uma boa explosão.')
+    st.markdown('##')
+    st.markdown('##')
+
+    st.subheader('Posicionamento da DRX antes do plant')
+    st.write('A ideia aqui é mostrar por onde a DRX mais joga no mapa. '
+             'Nesse caso podemos ver uma predominancia pelo Bomb B e a parte da garagem para entradas no Bomb A. '
+             'Outro ponto importante é que o Chamber geralmente aparece de maneira mais isolada ao restante do grupo, '
+             'antes da spike ser plantada.')
+    st.image('imagens/DRX atk geral.png')
     st.markdown('----')
     st.markdown('##')
 
@@ -129,6 +138,15 @@ with tab1:
              'o intuito é que aquela região sempre tenha que ser limpa pelo time adversário, forçando uso de utilitárias. '
              'Importante fator, é que similar ao ataque a DRX conseguiu muitas vezes abrir mão dos bombs e jogar retake em torno de ultimates fortes, '
              'como Fade, Breach e Brimstone.')
+    st.markdown('##')
+    st.markdown('##')
+
+    st.subheader('Posicionamento da DRX antes do plant')
+    st.write('A ideia aqui é mostrar por onde a DRX mais joga no mapa.'
+             'Aqui podemos ter ideia de como é o setup da defesa, como por exemplo, tendo o Breach mais vezes para o Bomb A e '
+             'a preferência do Chamber pelo Bomb B.')
+    st.image('imagens/DRX def geral.png')
+
     st.markdown('----')
     st.markdown('##')
 

@@ -28,6 +28,14 @@ with tab1:
     st.write('Com uma quantidade de rounds menor nesse half, a OPTC só teve 4 armados, os quais os 3 foram desastrosos e com muitas falhas, '
              'não é atoa que só conseguiram ganhar 1 round, devido a um clutch do Brimstone numa situação 1x2. '
              'Além disso os rounds ECO não houveram impactos na economia inimiga pois não conseguiam tirar uma quantidade significativa de armas.')
+    st.markdown('##')
+    st.markdown('##')
+
+    st.subheader('Posicionamento da OPTC antes do plant')
+    st.write('A ideia aqui é mostrar por onde a OPTC mais joga no mapa.'
+             'Aqui podemos ter ideia de como o setup da ataque da Optic é predominantemente feito pela região inferior do mapa.')
+    st.image('imagens/OPTC atk geral.png')
+
     st.markdown('----')
     st.markdown('##')
 
@@ -105,6 +113,15 @@ with tab1:
     st.write('No início do jogo apostaram em muitos stacks, e que até certo ponto foi bom, como por exemplo conseguiram ganhar o eco no 2º round, '
              'e chegaram a ter um placar de 4-2. Porém depois disso, os rounds ficaram fáceis de ler e a DRX conseguiu trabalhar muito bem em cima das falhas da OPTC,'
              ' até mesmo ganhando rounds em desvantagem.')
+    st.markdown('##')
+    st.markdown('##')
+
+    st.subheader('Posicionamento da OPTC antes do plant')
+    st.write('A ideia aqui é mostrar por onde a OPTC mais joga no mapa.'
+             'Aqui podemos ter ideia de como o setup da defesa da Optic tem uma maior predominância em torno do Bomb B, '
+             'deixando muitas vezes o Chamber cuidando do Bomb A. Outro ponto importante é a presença do Breach em ambos os Bombs.')
+    st.image('imagens/OPTC def geral.png')
+
     st.markdown('----')
     st.markdown('##')
 
